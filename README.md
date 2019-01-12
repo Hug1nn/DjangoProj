@@ -1,3 +1,3 @@
 # DjangoProj
 
-Just following tutoriasl from docs.djangoproject.com
+Just following tutorial from docs.djangoproject.com
